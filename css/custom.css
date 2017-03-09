@@ -1,0 +1,72 @@
+body {
+background: url(../images/dancebar.jpg); 
+}
+
+
+.jumbotron {
+		background: url(../images/sheba.jpg) 50% 0 fixed; 
+		margin-bottom: 0px;
+		color: white
+	}
+   
+   
+#intro { 
+			position: relative; 
+		    background: black;
+		    color: white;
+			height: auto;  
+			margin: 0 auto; 
+		    width: 100%; 
+		    padding: 100px 0;
+		}
+		
+		
+	
+#home { 
+			position: relative; 
+			background: url(../images/dancebar.jpg) 50% 0 fixed;
+			color: white;
+			height: auto;  
+			margin: 0 auto; 
+		    width: 100%; 
+		    padding: 200px 0;
+		}
+		
+		
+				
+#about { 
+			position: relative;
+			background: url(../images/kickerjr.jpg) 50% 0 fixed; 
+			height: auto;
+			margin: 0 auto; 
+		    width: 100%;  
+		    padding: 50px 0 50px;
+		    color: white;
+		}
+		
+		
+
+footer {
+		background: white;
+		color: black;
+		width: 100%;
+		padding: 10px;
+		border: 2px solid #cccccc;
+	}
+
+footer p {
+		text-align: center;
+	}
+	
+	
+.whiterounded {
+	background-color: brown;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 10px;
+	}
+
+
+
+	
+		 
